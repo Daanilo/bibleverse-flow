@@ -13,7 +13,14 @@ export default {
       },
     },
     extend: {
+      fontFamily: {
+        display: ['Bungee', 'system-ui', 'sans-serif'],
+        marker: ['Permanent Marker', 'cursive'],
+        body: ['Space Grotesk', 'system-ui', 'sans-serif'],
+      },
       colors: {
+        "neon-yellow": "hsl(var(--neon-yellow))",
+        "graffiti-pink": "hsl(var(--graffiti-pink))",
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
