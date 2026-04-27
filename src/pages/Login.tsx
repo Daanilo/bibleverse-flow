@@ -48,8 +48,8 @@ const Login = () => {
             // EBD reimaginada
           </p>
           <h2 className="font-display text-3xl md:text-5xl lg:text-6xl text-foreground leading-tight text-stroke-black">
-            FÉ NA <span className="text-accent">RUA</span>,<br />
-            PALAVRA NA <span className="text-secondary">ALMA</span>.
+            LUZ NA <span className="text-accent">MENTE</span><br />
+            E FOGO NO <span className="text-secondary">CORAÇÃO</span>.
           </h2>
         </div>
       </section>
